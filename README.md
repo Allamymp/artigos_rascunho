@@ -1,7 +1,6 @@
 # artigos_rascunho
 
 
-rascunho artigo boas práticas java.
 
 
 # Regras para Desenvolvimento de Software Seguro em Java
